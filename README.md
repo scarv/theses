@@ -25,6 +25,11 @@ produced in each case.*
 
 ## Content
 
+The content is stored using
+[Git Large File Storage (LFS)](http://git-lfs.github.com/):
+it makes sense to install this first, otherwise that content appears
+as a set of pointers to data vs. the data itself.
+
 ### BSc  theses
 
 - Mihajlo Milosavljevic.
