@@ -1,4 +1,4 @@
-# SCARV-related thesis archive
+# SCARV-related UG, PGR, and PhD thesis archive
 
 <!--- -------------------------------------------------------------------- --->
 
