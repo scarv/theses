@@ -32,6 +32,10 @@ as a set of pointers to data vs. the data itself.
 
 ### BSc  theses
 
+- Jordan Lord.
+  [*A RISC-V IoT Platform: Supporting the SCARV processor core in Zephyr*](./bsc/jl17191.pdf).
+  BSc,  University of Bristol, 2020.
+
 - Mihajlo Milosavljevic.
   [*Implementation and analysis of lightweight cryptography on RISC-V platform*](./bsc/mm14835.pdf).
   BSc,  University of Bristol, 2019.
