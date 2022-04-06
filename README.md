@@ -50,6 +50,10 @@ as a set of pointers to data vs. the data itself.
 
 ### MEng theses
 
+- Fergus Longley.
+  [*A Visual Programming Toolkit for Side-Channel Attacks*](./meng/fl17431.pdf).
+  MEng, University of Bristol, 2021.
+
 - Catherine Easdon.
   [*Undocumented CPU behaviour on x86 and RISC-V microarchitectures: a security perspective*](./meng/ce15865.pdf).
   MEng, University of Bristol, 2019.
