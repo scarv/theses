@@ -50,8 +50,12 @@ as a set of pointers to data vs. the data itself.
 
 ### MEng theses
 
+- Max Whale.
+  [*A composable RISC-V design and implementation with application to cryptographic workloads*](./meng/mw17440.pdf)
+  MEng, University of Bristol, 2021.
+
 - Fergus Longley.
-  [*A Visual Programming Toolkit for Side-Channel Attacks*](./meng/fl17431.pdf).
+  [*A visual programming toolkit for side-channel attacks*](./meng/fl17431.pdf).
   MEng, University of Bristol, 2021.
 
 - Catherine Easdon.
