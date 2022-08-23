@@ -50,8 +50,12 @@ as a set of pointers to data vs. the data itself.
 
 ### MEng theses
 
+- Ethan Bannister.
+  [*Exploring timing channel resilience with RISC-V*](./meng/qs18749.pdf).
+  MEng, University of Bristol, 2022.
+
 - Max Whale.
-  [*A composable RISC-V design and implementation with application to cryptographic workloads*](./meng/mw17440.pdf)
+  [*A composable RISC-V design and implementation with application to cryptographic workloads*](./meng/mw17440.pdf).
   MEng, University of Bristol, 2021.
 
 - Fergus Longley.
